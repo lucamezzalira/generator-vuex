@@ -1,2 +1,2 @@
-# generator-mobx
-basic Yeoman generator for MobX projects
+# generator-vuex
+basic Yeoman generator for Vuex projects
